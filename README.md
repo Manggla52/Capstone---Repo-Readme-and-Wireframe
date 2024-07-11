@@ -39,4 +39,4 @@ _______________________________
 []w3schools Navs
 []w3schools For Loops
 
-<link src="https://www.canva.com/design/DAGKhCMgm_o/llBQHTYc4UyosenI2LuRNg/edit?utm_content=DAGKhCMgm_o&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="Whiteboard/Cavana">
+<a href="https://www.canva.com/design/DAGKhCMgm_o/llBQHTYc4UyosenI2LuRNg/edit?utm_content=DAGKhCMgm_o&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="Whiteboard/Cavana"></a>
