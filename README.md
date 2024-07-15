@@ -10,7 +10,7 @@
 _______________________________
 **About:Advertiment of services along with Bio and Portifolio**
 
-[]**Built with**
+[x]**Built with**
    A list
       of
      All
@@ -27,7 +27,7 @@ _______________________________
 [x]An image of your wireframe (Required) wireframe of index.html wireframe of gallery.html
 
 **Contact**
-[x]Your name and []email address
+[x]Your name and [x]email address
 
 **Acknowledgements**
 [x]Any websites
