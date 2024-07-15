@@ -17,26 +17,26 @@ _______________________________
      My
     Tech
 **Example:**
-[]Bootstrap
-[]HTML
-[]CSS
+[x]Bootstrap
+[x]HTML
+[x]CSS
 []Roadmap
 []My plan / Don't have to be complete.
  Just the main ideas /Add more as you go.
-[]Wireframe
-[]An image of your wireframe (Required) wireframe of index.html wireframe of gallery.html
+[x]Wireframe
+[x]An image of your wireframe (Required) wireframe of index.html wireframe of gallery.html
 
 **Contact**
-[]Your name and []email address
+[x]Your name and []email address
 
 **Acknowledgements**
-[]Any websites
+[x]Any websites
 []Any videos
 []Any AI
 []Any person you work with
 **You may use outside help, but you MUST acknowledge it here.**
-[]w3schools Cards
-[]w3schools Navs
+[x]w3schools Cards
+[x]w3schools Navs
 []w3schools For Loops
 
 href="https://www.canva.com/design/DAGKhCMgm_o/llBQHTYc4UyosenI2LuRNg/edit?utm_content=DAGKhCMgm_o&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="Whiteboard/Cavana">
